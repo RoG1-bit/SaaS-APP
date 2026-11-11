@@ -1,0 +1,6 @@
+{
+  "name": "Típicos Margoth · Reproductor TV",
+  "description": "Aplicación nativa Android TV (Kotlin + Media3 ExoPlayer) y simulador interactivo Kiosco 24/7 para Digital Signage de Típicos Margoth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

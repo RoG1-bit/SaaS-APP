@@ -1,0 +1,76 @@
+{
+  "sesiones": [
+    {
+      "codigoSeisDigitos": "482910",
+      "estado": "VINCULADA",
+      "modeloHardware": "Android TV - Típicos Margoth Kiosk",
+      "resolucionDetectada": "1920x1080",
+      "creadoEn": 1794432345639,
+      "expiraEn": 1794518745639,
+      "dispositivoVinculado": {
+        "id": "tv-482910",
+        "nombre": "TV Margoth Test",
+        "sucursal": "Sucursal Escalón",
+        "orientacion": "HORIZONTAL_16_9"
+      }
+    },
+    {
+      "codigoSeisDigitos": "220841",
+      "estado": "ESPERANDO_VINCULACION",
+      "modeloHardware": "Android TV - Margoth Kiosk",
+      "resolucionDetectada": "1920x1080",
+      "creadoEn": 1794433439937,
+      "expiraEn": 1794435239937
+    }
+  ],
+  "pantallas": [
+    {
+      "id": "tv-margoth-escalon-01",
+      "nombre": "Pantalla Menú Principal · Sucursal Escalón",
+      "sucursal": "San Salvador · Escalón",
+      "orientacion": "HORIZONTAL_16_9",
+      "modeloHardware": "Android TV - Google Chromecast 4K",
+      "modoReproduccion": "PLAYLIST",
+      "videoAsignadoId": "vid-almuerzos-margoth",
+      "playlistIds": [
+        "vid-almuerzos-margoth",
+        "vid-desayunos-tipicos",
+        "vid-tarde-cafe-antojitos"
+      ],
+      "conectado": true,
+      "ultimoLatido": 1794432340428
+    },
+    {
+      "id": "tv-482910",
+      "nombre": "TV Margoth Test",
+      "sucursal": "Sucursal Escalón",
+      "orientacion": "HORIZONTAL_16_9",
+      "modeloHardware": "Android TV - Típicos Margoth Kiosk",
+      "modoReproduccion": "PLAYLIST",
+      "videoAsignadoId": "vid-almuerzos-margoth",
+      "playlistIds": [
+        "vid-almuerzos-margoth",
+        "vid-desayunos-tipicos",
+        "vid-tarde-cafe-antojitos"
+      ],
+      "conectado": true,
+      "ultimoLatido": 1794432345655
+    },
+    {
+      "id": "tv-350136",
+      "nombre": "Pantalla Típicos Margoth · Restaurada",
+      "sucursal": "Sucursal Principal",
+      "orientacion": "HORIZONTAL_16_9",
+      "modeloHardware": "Android TV 4K",
+      "modoReproduccion": "EN_ESPERA_FONDO",
+      "videoAsignadoId": "vid-almuerzos-margoth",
+      "playlistIds": [
+        "vid-almuerzos-margoth",
+        "vid-desayunos-tipicos",
+        "vid-tarde-cafe-antojitos"
+      ],
+      "conectado": true,
+      "ultimoLatido": 1794433405096
+    }
+  ]
+}
